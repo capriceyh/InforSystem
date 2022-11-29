@@ -37,3 +37,16 @@ demorear为后端部分
 ![image](https://user-images.githubusercontent.com/88532910/204457837-90d0c6e4-db68-4a8c-b654-8b4879ea2384.png)
 ### 新增子菜单（需要有页面、路径）
 ![image](https://user-images.githubusercontent.com/88532910/204457911-01d75ca1-dca5-49fa-8a17-af1f15218dfb.png)
+# 用到的数据库表和其对应的字段属性
+## sys_user（负责记录用户信息）
+![image](https://user-images.githubusercontent.com/88532910/204458819-fe3ea315-71b8-4af8-acbf-64291d61bb05.png)
+## sys_file（负责文件上传与下载功能模块）
+![image](https://user-images.githubusercontent.com/88532910/204459102-76842a76-dc21-438e-8d85-38acbd2d1de8.png)
+## sys_role_menu（角色菜单关系表）
+![image](https://user-images.githubusercontent.com/88532910/204459243-1fa538fc-89bc-4c64-95c7-4298266fcaca.png)
+## sys_role（角色身份表）
+![image](https://user-images.githubusercontent.com/88532910/204459461-f040222b-a774-47ef-8475-d738665822d8.png)
+## sys_menu（负责菜单分配模块）
+![image](https://user-images.githubusercontent.com/88532910/204459610-75bc6979-d4c4-4afd-bf95-a5dc6e692056.png)
+## sys_dict（负责）
+![image](https://user-images.githubusercontent.com/88532910/204460005-8a841947-5526-4956-9705-238d8439b9ae.png)
