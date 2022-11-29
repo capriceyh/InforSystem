@@ -10,8 +10,8 @@ demorear为后端部分
 使用方式  
 使用idea  
 在idea中跑该springboot项目
-*成果展示  
-**登录注册  
+# 成果展示  
+## 登录注册  
 ![image](https://user-images.githubusercontent.com/88532910/204455274-f9eba8ac-6a4c-4f25-b022-dfb7477bdbad.png)
 **主页数据展示  
 ![image](https://user-images.githubusercontent.com/88532910/204455371-44ce6a91-a144-4b9f-8d20-9fc58d480181.png)
