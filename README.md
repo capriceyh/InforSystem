@@ -48,5 +48,5 @@ demorear为后端部分
 ![image](https://user-images.githubusercontent.com/88532910/204459461-f040222b-a774-47ef-8475-d738665822d8.png)
 ## sys_menu（负责菜单分配模块）
 ![image](https://user-images.githubusercontent.com/88532910/204459610-75bc6979-d4c4-4afd-bf95-a5dc6e692056.png)
-## sys_dict（负责）
+## sys_dict（负责菜单与图标间对应关系--属于菜单分配模块）
 ![image](https://user-images.githubusercontent.com/88532910/204460005-8a841947-5526-4956-9705-238d8439b9ae.png)
