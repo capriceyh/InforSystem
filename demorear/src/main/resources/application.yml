@@ -1,0 +1,27 @@
+spring:
+# 自行配置数据库
+  datasource:
+    driver-class-name: 
+    url: 
+    username: 
+    password: 
+
+server:
+  port: 8888
+
+mybatis:
+  mapper-locations: classpath:mapper/*xml
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  type-aliases-package: com.example.demorear.mybatis.entity
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+# 文件上传功能的路径配置
+files:
+  upload:
+    path: E:/v/demorear/files/
+
+
