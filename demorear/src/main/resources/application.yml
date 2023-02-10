@@ -1,9 +1,10 @@
 spring:
+# 自行配置数据库
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/fzsy?serverTimezone=GMT%2b8
-    username: root
-    password: 130103
+    driver-class-name: 
+    url: 
+    username: 
+    password: 
 
 server:
   port: 8888
